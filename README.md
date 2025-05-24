@@ -92,8 +92,8 @@ Created by [Md. Musa Kalimulla] – feel free to reach out via [mkador169@gmail.
 |-----------------------------|--------------|
 | Naive Bayes                 | 82.32%        |
 | Logistic Regression         | 92.26%        |
-| LinearSVC                   | **94.94**    |
-| Passive Aggressive Classifier | **94.95** |
+| LinearSVC                   | **94.94 %**    |
+| Passive Aggressive Classifier | **94.95 %** |
 
 *LinearSVC and Passive Aggressive Classifier achieved the highest accuracy.*
 
