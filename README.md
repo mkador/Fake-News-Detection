@@ -9,8 +9,7 @@ A machine learning project for detecting fake news articles using multiple class
 - [Project Overview](#project-overview)  
 - [Technologies Used](#technologies-used)  
 - [Models Implemented](#models-implemented)  
-- [Installation](#installation)  
-- [Usage](#usage)  
+- [Installation](#installation)   
 - [Results](#results)  
 - [Dataset](#dataset)  
 - [Contributing](#contributing)  
@@ -30,8 +29,10 @@ Fake news has emerged as a critical issue impacting public opinion and trust. Th
 - Python 3.x  
 - scikit-learn  
 - pandas  
-- numpy  
-- nltk / spaCy (for text preprocessing)  
+- numpy
+- TfidfVectorizer  (for text to numeric)
+- train_test_split
+- sklearn.metrics  
 - pickle (for model serialization)  
 
 ---
@@ -55,6 +56,37 @@ Among these, the **Passive Aggressive Classifier** and **LinearSVC** demonstrate
    git clone https://github.com/mkador/fake-news-detection.git
    cd fake-news-detection
 
+## Dataset
+
+The dataset contains labeled news articles categorized as *real* or *fake*.  
+(Include dataset source here, for example:  
+- [Kaggle Fake News Dataset](https://www.kaggle.com/c/fake-news/data)  
+- Or any other source you used)
+
+Mention any preprocessing or cleaning steps applied to the data.
+
+---
+
+## Contributing
+
+Contributions are welcome! If you'd like to improve this project, please feel free to:  
+- Open an issue to discuss your ideas or report bugs  
+- Submit a pull request with improvements or bug fixes  
+
+Please follow standard GitHub flow for contributing.
+
+---
+
+## License
+
+This project is licensed under the (mkador).  
+See the LICENSE file for more details.
+
+---
+
+## Contact
+
+Created by [Md. Musa Kalimulla] – feel free to reach out via [mkador169@gmail.com] for any questions or suggestions.
 
 
 
