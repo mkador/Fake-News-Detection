@@ -60,10 +60,8 @@ Among these, the **Passive Aggressive Classifier** and **LinearSVC** demonstrate
 
 The dataset contains labeled news articles categorized as *real* or *fake*.  
 (Include dataset source here, for example:  
-- [Kaggle Fake News Dataset](https://www.kaggle.com/c/fake-news/data)  
-- Or any other source you used)
-
-Mention any preprocessing or cleaning steps applied to the data.
+- dataset includes to my repository
+- it is a balanced dataset
 
 ---
 
@@ -80,8 +78,6 @@ Please follow standard GitHub flow for contributing.
 ## License
 
 This project is licensed under the (mkador).  
-See the LICENSE file for more details.
-
 ---
 
 ## Contact
